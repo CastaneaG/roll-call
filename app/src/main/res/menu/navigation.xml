@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/notifications"
+        android:title="@string/title_notifications" />
+
+    <item
+        android:id="@+id/navigation_sign_in"
+        android:icon="@drawable/sign_in"
+        android:title="@string/title_signin" />
+
+    <item
+
+        android:id="@+id/navigation_history"
+        android:icon="@drawable/history"
+        android:title="@string/title_history" />
+
+</menu>
